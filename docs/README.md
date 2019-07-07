@@ -38,4 +38,9 @@ footer: MIT Licensed | Copyright © 2019 - Me, do what ever you want
 
 - `base` url
 - folder management
-- [yaml font matter](https://jekyllrb.com/docs/front-matter/) -->
+- [yaml font matter](https://jekyllrb.com/docs/front-matter/) 
+- next link
+- GitRepo edit this page
+- CSS override
+- 
+- -->

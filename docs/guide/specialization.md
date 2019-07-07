@@ -1,23 +1,15 @@
 # What is it
 
-Studying Computer science does not nessecarity means
+Studying Computer science does not nessecarity means, you`ll only be a Programmer. Well it depends on what you enjoy doing
+Theres alot more to CS than most people understand.
 
 ## Specializations
 
-### Web
-
-### Software
-
-### Hardware
-
-### Game Dev
-
-### Database
-
-### Networking
-
-### AI, Machine Learning( black magic)
-
-### Management
-
-Don't do this, leave it for the mentally handicapped.
+- Software
+- Hardware
+- Interaction Desgin
+- Security
+- Web
+- Data
+- Networking
+- Management: dont do this
