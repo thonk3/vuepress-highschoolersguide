@@ -1,1 +1,9 @@
-# Hello thar
+# Resources
+
+## Tools and stuff
+
+## Forums
+
+## Youtube
+
+## Books

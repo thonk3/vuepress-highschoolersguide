@@ -2,19 +2,19 @@
 home: true
 heroText: So you want to do Computer Science
 description: A brief guide on how to get started on learning Computer Science
-actionText: Lets go 
-actionLink: '/testing/'
+actionText: Lets a go 
+actionLink: '/guide/specialization.md'
 features:
-- title: Simplicity First
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Vue-Powered
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-- title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2018-present Evan You
+- title: Its fun
+  details: Fun and family friendly activity for the whooooole family
+- title: Be a show off
+  details: Get your own bragging license, forever bug the people around you about the things you made
+- title: Forever bankrupt
+  details: I mean mentally, you will perpetually sink into the void of cs knowledge, eternally 
+footer: MIT Licensed | Copyright © 2019 - Me, do what ever you want
 ---
-
-# Main page 
+<!-- 
+# Main page
 
 `Keep it simple`
 
@@ -38,4 +38,4 @@ footer: MIT Licensed | Copyright © 2018-present Evan You
 
 - `base` url
 - folder management
-- [yaml font matter](https://jekyllrb.com/docs/front-matter/)
+- [yaml font matter](https://jekyllrb.com/docs/front-matter/) -->
