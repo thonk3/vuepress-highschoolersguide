@@ -6,12 +6,12 @@ module.exports = {
             { text: 'GitHub', link: 'https://github.com/deBubz/vpress-highschoolersguide'}
         ],
         sidebar: [
-            ['/guide/specialization.md', 'paths'],
-            ['/guide/starting.md','why'],
-            ['/guide/resources.md', 'stuff'],
-            ['/guide/end.md', 'notes']
-
+            ['/guide/specialization.md', 'What is CS'],
+            ['/guide/starting.md','Lets Start'],
+            ['/guide/resources.md', 'Resources'],
+            ['/guide/end.md', 'Extra Notes']
+            
         ],
-        sidebarDepth: 1
+        sidebarDepth: 2
     }
 }
