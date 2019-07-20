@@ -1,18 +1,17 @@
-# What is it
+# What is it?
 
-**Computer Science** is the science of Computers ofcourse <span class="smallertx">(heheheh)</span>.Studying Computer science does not nessecarity means you`ll only be a Programmer **OR** stick to one specialization path.
-It depends on what you enjoy doing and what your job is, you could be doing one thing at work but you build all kind of different stuff in your freetime. Like mobile apps, websites(like tis), [arduino projects](https://create.arduino.cc/projecthub), and much more.
-Theres alot more to tech than most people understand.
+![img](../../img/hacking_cat.gif)
 
-::: tip
-Whats **important** is the ability to sitdown and figgure out how to things work by yourself. **Uni** will not teach you everything.
+**Computer Science** is the science of Computers ofcourse <span class="smallertx">(heheheh)</span>.Studying Computer science does not nessecarity means you'll only be a Programmer **OR** stick to one specialization path.
+It depends on what you enjoy doing and what your job is, you could be doing one thing at work but you build all kind of different stuff in your freetime. Like mobile apps, websites(like this one), [arduino projects](https://create.arduino.cc/projecthub), and much more.
+Theres alot more to CS than most people understand. What this guide is for is to `"plant a seed in your mind"` to understand what's possible out there in your future with Computer Science.
+
+::: tip TIP
+
+The ability  be **Self Taught** would be the [most important skill](https://insights.stackoverflow.com/survey/2018/#developer-profile-_-other-types-of-education) to have, not only in CS but any career path you might want to take. There are so much schools and uni could teach you, but to be good in what you are doing. **Teach yourself**
 :::
 
 ## Specializations
-
-::: warning NOTE
-This information is based on my personal experiences, so some information might be incorrect or missing. But if you see anything interesting, do a quick [google](https://www.google.com.au/h) and see what is out there.
-:::
 
 ### Web
 
@@ -61,37 +60,40 @@ The Responsibilities of a Software Developer often includes:
 
 ### Hardware
 
-**Job Titles**:
+**Job Titles**: generally belong to the Electrical Engineering field
 
-something something IOT
+Typically this would be more interesting to you if you perfer to build physical objects rather than just code.
+You'll learn how a circuit board works and get to build some of your own. This can lead to jobs developing computer parts, smart devices(Internet of Things) and such..
+
+Last year I did a summer course in IoT and built [this](https://debubz.github.io/summer/sprint4.html#battery)
 
 ### Interaction Desgin
 
-**Job Titles**:
-
-something design position
+This path focuses more on the designing what your software looks like and how will the user interact with it. For example, where is a certain button located on the screen, what color,... Have a look at the apps on your phone, each characteristics of the app is meticulously design to suit a specific purpose.
 
 ### Security
 
-**Job Titles**:
+![hacking](../../img/hacking.gif)
 
-Very important
+Or something more "legal" such as a Pen Tester, Security Analyst..
+
+If Software is in everything, it can be *hacked*. To protect yourself, your product and your users. Security experts are constantly required to prevent breaches towards your system.
+
+One of the great things about CS careers is you're not just stuck to only working for a company for the rest of your life. Be a freelancer, work for yourself. In the case of **Security** you can do **bug bounties** as a **Peneltration Tester**. This means "ethically" hacking a software/system/website and report it to their company to recieve a monetary reward in return.
 
 ### Data
 
-**Job Titles**:
+**Job Titles**: Databases administrator
 
-Boring databases.
+Everything is about data today, the Db Admin's role is to design, create, maintain databases. This includes writing scripts to generate generate reports/ query specific information to be used elsewhere. A good solid, understanding of database is super vital for other projects too.
 
-### Networking
+If you want to take a more bussiness centric path, look in to being a **Data Scientist**, or **Quantitative Researcher**.
 
-**Job Titles**: System Admin,
-
-lmao wtf
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/Qd2Kh80ZK6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media;r gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Management <span class="smalltx"> (don`t do this) </span>
 
-**Job titles**: Project manager, CTO, and other things?
+**Job titles**: Project manager, and other things?
 
 <span class="smallertx"> Really, dont do it. </span>
 Joking aside, managers are vital to make sure the development process of a project goes smoothly and according to plan.
@@ -99,12 +101,8 @@ Management are also responsible to remove any obstacles for developers to do the
 This may include making many difficult choices to satisfy the needs of the *project owner*, the development team and any other teams involved in the project.
 
 ::: warning
-There are also other areas I have not mentioned such as **Machine Learning**, **Artificial Intelligence**, **BlockChain**... This is because I don't know much about them or are not interested in them. It is up to you to figgure out what you like and do your own research.
+There are some other areas I have not mentioned (**Machine Learning**, **Artificial Intelligence**, **Networking**...) as I am not familiar with, and are not interested in them. It is important for you to do your own [research](https://www.google.com.au/) and figgure out what interest you.
 :::
-
-## Skills
-
-- Se
 
 <style>
 
