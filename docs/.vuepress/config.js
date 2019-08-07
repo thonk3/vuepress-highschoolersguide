@@ -9,7 +9,7 @@ module.exports = {
             ['/guide/specialization.md', 'What is CS'],
             ['/guide/starting.md','Lets Start'],
             ['/guide/resources.md', 'Resources'],
-            ['/guide/end.md', 'Extra Notes']
+            ['/guide/end.md', 'Dos and Don`ts']
             
         ],
         sidebarDepth: 2

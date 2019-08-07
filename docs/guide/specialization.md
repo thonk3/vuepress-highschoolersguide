@@ -89,7 +89,7 @@ Everything is about data today, the Db Admin's role is to design, create, mainta
 
 If you want to take a more bussiness centric path, look in to being a **Data Scientist**, or **Quantitative Researcher**.
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/Qd2Kh80ZK6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media;r gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/Qd2Kh80ZK6k" frameborder="0" allow="encrypted-media;r gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Management <span class="smalltx"> (don`t do this) </span>
 
