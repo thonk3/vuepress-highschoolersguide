@@ -19,6 +19,16 @@ Having an expensive computer/laptop doesnt meant you're a better computer, it ju
 
 ### Software
 
+Generally it'll be the software where you write your code. These are called IDEs (Intergrated Development Environment)
+
+Most IDEs to day are pretty versitile with the number of addons they each have for you to customise to best suit your needs. These are:
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Atom](https://atom.io/)
+- [Sublime](https://www.sublimetext.com/)
+
+and much more(even notepad or make your own)
+
 ## Forums
 
 ## Youtube
