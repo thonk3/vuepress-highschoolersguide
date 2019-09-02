@@ -81,6 +81,8 @@ If Software is in everything, it can be *hacked*. To protect yourself, your prod
 
 One of the great things about CS careers is you're not just stuck to only working for a company for the rest of your life. Be a freelancer, work for yourself. In the case of **Security** you can do **bug bounties** as a **Peneltration Tester**. This means "ethically" hacking a software/system/website and report it to their company to recieve a monetary reward in return.
 
+This is an extremely brief description of **security** as there are a lot of other avenues of "hacking" such as social engineering and [physically](https://www.youtube.com/watch?v=rnmcRTnTNC8)(alot of damage can be done if someone can get their hand on your wallet, let alone plugging an usb into your computer). I do recomend checking out some security conference talks such as [BlackHat](https://www.youtube.com/user/BlackHatOfficialYT/videos?view=0&sort=p&flow=grid) and [Defcon](https://www.youtube.com/user/DEFCONConference/videos?view=0&sort=p&flow=grid).
+
 ### Data
 
 **Job Titles**: Databases administrator
